@@ -95,7 +95,7 @@ img {
   text-transform: uppercase;
   text-decoration: none;
   color: rgba(0, 0, 0, 0.8); /* لون النص باللون الأسود مع شفافية */
-  background-color: rgba(0, 255, 136, 0.3); /* لون خلفية أخضر فاتح مع شفافية */
+  background-color: rgb(0, 255, 136); /* لون خلفية أخضر فاتح مع شفافية */ /* لون خلفية أخضر فاتح مع شفافية */
   display: inline-block;
   transition: background-color 0.3s, box-shadow 0.3s, color 0.3s; /* إضافة تأثير الانتقال للون النص */
 }
